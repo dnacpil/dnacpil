@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Dysie (pronouced as Daisy, I know, it's an odd spelling :grin:)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi👋 I’m Dysie 
+
+- pronouced as Daisy, I know, it's an odd spelling :grin:
+  
+- I work as a QA and completing a Higher Diploma in Science in Computing at DBS
+
+## What I have worked with 👩🏻‍💻
+- HTML
+- CSS
+- JavaScript
+- C#
+- Python
+- Markdown
+- SQL
+
+
+
+
+
+
 
 <!---
 dnacpil/dnacpil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
