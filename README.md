@@ -2,7 +2,7 @@
 
 - pronouced as Daisy, I know, it's an odd spelling :grin:
   
-- I work as a QA and completing a Higher Diploma in Science in Computing at DBS
+- I work as a QA and I'm also completing a Higher Diploma in Science in Computing at DBS 🌱
 
 ## What I have worked with 👩🏻‍💻
 - HTML
