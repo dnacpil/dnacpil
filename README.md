@@ -9,10 +9,8 @@
 - CSS
 - JavaScript
 - C#
-- C
 - Python
 - SQL
-- Markdown
 
 
 
