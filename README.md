@@ -5,13 +5,9 @@
 - I work as a QA and I'm also currently completing a Higher Diploma in Science in Computing at DBS 🌱
 
 ## What I have worked with 👩🏻‍💻
-- HTML
-- CSS
-- JavaScript
-- C#
+- C# and .NET
 - Python
-- SQL
-
+- Javascript/CSS/HTML
 
 
 
